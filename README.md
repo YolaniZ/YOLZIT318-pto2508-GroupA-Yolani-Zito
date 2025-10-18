@@ -31,19 +31,30 @@ By completing this reflection, you will gain a clearer understanding of your car
     **Skills Analysis and ares of expertise**
     
     -HTLM
+    -Customer Service Excellence
+    -Technical proficiency
     -CSS
     -Basic Javascript
+    -Client relationship management
     
     **Skills to develop/improve**
 
-    -Learn advanced Javascript
-    - 
+    -Advanced Communication & Emotional Intelligence
+    -Learn advanced Java script
+    -Data literacy
+    -Learn react
+    -Learn conflict Resolution & Negotiation
 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
 
+    **Key interests related to my career
+    
+    - Understanding how users interact with software helps advocate for better customer experiences.
+    - Understanding basic security principles that helps protect client data and build trust.
+    - Learn tools like Figma, Adobe XD, or Sketch.
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
