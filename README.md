@@ -33,6 +33,11 @@ By completing this reflection, you will gain a clearer understanding of your car
     -HTLM
     -CSS
     -Basic Javascript
+    
+    **Skills to develop/improve**
+
+    -Learn advanced Javascript
+    - 
 
 2. **Interests and Values**:
     
