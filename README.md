@@ -24,9 +24,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
+
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
+
+    **Skills Analysis and ares of expertise**
+    
+    -HTLM
+    -CSS
+    -Basic Javascript
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
