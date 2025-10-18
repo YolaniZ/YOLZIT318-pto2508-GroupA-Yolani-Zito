@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Yolani Zito
+- **Date: 18/10/2025
+- **Current Role/Position: Client care Consultant
+- **Field of Interest: Software development and Cyber security in banking
 
 ### Part 1: Self-Assessment Reflection
 
