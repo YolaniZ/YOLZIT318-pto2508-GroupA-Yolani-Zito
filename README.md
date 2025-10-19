@@ -55,12 +55,40 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Understanding how users interact with software helps advocate for better customer experiences.
     - Understanding basic security principles that helps protect client data and build trust.
     - Learn tools like Figma, Adobe XD, or Sketch.
+
+    ** Imprortant values in my work environment
+
+    - Encouraging professional development, training, and upskilling.
+    - Collaboration & Teamwork
+    - Innovation & Problem Solving
+
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
     - Note any particular areas that piqued your interest.
+
+    **Industries and Roles Explored**
+
+   - Technical Support Engineer
+   - Software Developer (Front-End / Back-End / Full Stack)
+   - Quality Assurance (QA) Tester
+   - UX/UI Designer
+   - Junior Web Developer
+   - Business Analyst (Tech-Focused)
+
+   **Note any particulareas areas that piqued your interest**
+
+   - User Experience (UX) & Interface Design
+   - Front-End Development
+   - Back-End Development
+   - Cybersecurity
+   - Software Testing & Quality Assurance
+
+
+   -
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
