@@ -99,6 +99,12 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Collaboration and transparency are core to Agile teams and DevOps cultures, making those environments a natural fit for your working style.
     - Recognition and growth are often emphasized in tech companies and startups, offering clear paths for advancement and skill-building.
 
+    **Identify any gaps or areas for further exploration**
+
+    - Limited hands-on experience in software engineering roles like development, testing, or DevOps.
+    - Broad interest across many tech areas (UX, DevOps, cybersecurity, etc.) without a clear specialization yet.
+    - Do not yet have industry-recognized certifications in areas like software development, cloud computing and cybersecurity
+
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
