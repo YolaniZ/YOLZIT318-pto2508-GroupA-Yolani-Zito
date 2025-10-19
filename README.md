@@ -28,7 +28,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
 
-    **Skills Analysis and ares of expertise**
+    **Skills Analysis and areas of expertise**
     
     -HTLM
     -Customer Service Excellence
@@ -85,9 +85,6 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Back-End Development
    - Cybersecurity
    - Software Testing & Quality Assurance
-
-
-   -
 
 2. **Alignment with Personal Profile**:
     
