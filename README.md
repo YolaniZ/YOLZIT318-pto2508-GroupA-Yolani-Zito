@@ -103,7 +103,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     - Limited hands-on experience in software engineering roles like development, testing, or DevOps.
     - Broad interest across many tech areas (UX, DevOps, cybersecurity, etc.) without a clear specialization yet.
-    - Do not yet have industry-recognized certifications in areas like software development, cloud computing and cybersecurity
+    - Do not yet have industry-recognized certifications in areas like software development, cloud computing and cybersecurity.
+    - Start building and documenting projects—web apps, data dashboards, or automation scripts to demonstrate my skills.
 
 ### Part 3: SMART Career Goals
 
@@ -115,6 +116,19 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
+
+    **Short-term Goals** (Next 1-2 years):
+
+    - Complete a Foundational Software Engidevelopment Certification with CodeSpace (Finish all moduleschallenges and earn the certificate and dedicate 2–5 hours per day to study).
+    - Build a Personal Portfolio Website and publish at least 3 projects.
+    - Gain Practical Experience Through a Tech Internship or Freelance Project and I would need to apply to at least 10 opportunities.
+    - Improve Technical Communication Skills by Writing 3 blog posts or LinkedIn articles explaining tech concepts I've learned.
+
+    **Long-term Goals** (3-5 years and beyond):
+    
+    - Transition into a Full-Time Tech Role, secure a full-time position as a Front-End Developer, QA Engineer, or UX Designer and Apply for roles aligned with my portfolio and certifications.
+    - Earn an Advanced Certification or Degree, I would like to Complete a diploma, degree, or advanced certification in Software Engineering, Cybersecurity, or Data Science.
+    - Develop and Launch a Tech Product or App Design, I want to build and deploy a web or mobile application that solves a real-world problem and that would reach at least 100 users or downloads.
 
 ### Part 4: Action Plan
 
